@@ -1,0 +1,84 @@
+{
+  "code": "DHC",
+  "title": "SMASH DHC",
+  "school": "대구보건대",
+  "fullName": "대구보건대학교",
+  "campusName": "대구보건대학교",
+  "tagline": "대구보건대를 부셔 (시험기간 스트레스 해소)",
+  "description": "대구보건대학교를 3D로 부수고 지구 중심까지 파 내려가는 스트레스 해소 게임",
+  "ogAlt": "폭탄이 터지며 무너지는 대구보건대학교 3D 화면과 SMASH DHC 제목",
+  "url": "https://hong-iron.github.io/SMASH-DHC/",
+  "antipode": "우루과이 앞바다(남대서양)",
+  "osm": {
+    "type": "relation",
+    "id": 16538498
+  },
+  "styles": {},
+  "supportKakao": "https://qr.kakaopay.com/FKcOJKyOy1f405462",
+  "supportToss": "supertoss://send?amount=1000&bank=%ED%86%A0%EC%8A%A4%EB%B1%85%ED%81%AC&accountNo=100123297463&origin=qr",
+  "hub": "https://hong-iron.github.io/SMASH/",
+  "kakaoKey": "ff20552a5a51bc1fe0e0ecdecd217f35",
+  "goatcounter": "https://sassafras.goatcounter.com/count",
+  "supabaseUrl": "https://qohxhopinnwrzrgxrdvj.supabase.co",
+  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g",
+  "exclude": [
+    {
+      "id": "way/1218510767",
+      "n": "대구과학대학교 부설유치원",
+      "why": "학교 건물 아님 — 옆 학교인 대구과학대학교의 부설유치원으로, 오픈스트리트맵 이름과 건축물 대장이 모두 '대구과학대학 부설유치원'이고 대구보건대 건물 목록에는 없어서 뺀다."
+    }
+  ],
+  "look": {
+    "본관": {
+      "style": "glass",
+      "wall": "#6e7e7f",
+      "glass": "#4e5d5c",
+      "frame": "#81918e"
+    },
+    "인당관": {
+      "style": "stone",
+      "wall": "#cdc9bf",
+      "glass": "#52584c",
+      "frame": "#495148"
+    },
+    "문화관": {
+      "style": "stone",
+      "wall": "#edede6",
+      "glass": "#323537",
+      "frame": "#ccc4bc"
+    },
+    "성실관": {
+      "style": "brick",
+      "wall": "#cf9978",
+      "glass": "#251c14",
+      "frame": "#f4f7f5",
+      "roof": "#9a998e",
+      "hip": true
+    },
+    "연마관": {
+      "style": "concrete",
+      "wall": "#e4dfd1",
+      "glass": "#2f322a",
+      "frame": "#697477"
+    },
+    "영송관": {
+      "style": "brick",
+      "wall": "#5c2c29",
+      "glass": "#57676f",
+      "frame": "#d3d3d5"
+    },
+    "미래관": {
+      "style": "ribbon",
+      "wall": "#dde2e0",
+      "glass": "#919891",
+      "frame": "#bdc7c1"
+    },
+    "창의관": {
+      "style": "stone",
+      "wall": "#e5eeee",
+      "glass": "#768795",
+      "frame": "#b5bcc7"
+    }
+  },
+  "lookSource": "학교 공식 캠퍼스맵·건물 안내 사진과 위키미디어 공용 사진의 색만 참고. 사진 픽셀은 쓰지 않음"
+}
